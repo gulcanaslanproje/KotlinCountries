@@ -2,10 +2,10 @@
 
 The project was developed for educational purposes.
 
-MVVM,
+MVVM
 
-Retrofit & RxJava,
+Retrofit & RxJava
 
-Room,
+Room
 
-Data Binding,
+Data Binding
