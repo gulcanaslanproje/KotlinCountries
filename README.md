@@ -1,7 +1,6 @@
 # KotlinCountries
 
 Countries are listed. 
-
 When the country is selected, information about the country is given in detail. 
 
 MVVM
